@@ -28,7 +28,7 @@ single loading spinner until everything finishes.
 ## How to run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-investment-agent.git
+git clone https://github.com/bprasad03/ai-investment-agent.git
 cd ai-investment-agent
 npm install
 ```
